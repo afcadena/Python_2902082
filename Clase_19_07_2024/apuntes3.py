@@ -1,4 +1,4 @@
-"""
+
 class CuentaBancaria:
     def __init__(self, numero_cuenta, titular, saldo=0):
         self.__numero_cuenta = numero_cuenta
@@ -97,7 +97,7 @@ while opcion != "5":
         print("Opción inválida. Por favor, selecciona una opción válida (1/2/3/4/5).")
 
 
-"""
+
 
 # Trabajo 2
 
